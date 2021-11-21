@@ -1,5 +1,5 @@
 # TalabApp
-The fastest, safest, and free way of finding your next roommate. Get your search started today!
+The fastest, safest, and free way of finding your next roommate.Get your search started today!
 
 # Branches
 
